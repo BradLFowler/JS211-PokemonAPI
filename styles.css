@@ -1,0 +1,34 @@
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    font-size: 45px;
+    text-align: center;
+}
+
+img {
+    height: 250px;
+    width: 250px;
+}
+
+#myDiv {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+button {
+    height: 70px;
+    width: 190px;
+}
+
+div {
+    font-size: 20px;
+}
+
+img:hover {
+    height: 450px;
+    width: 450px;
+}
